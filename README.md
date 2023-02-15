@@ -24,6 +24,8 @@
 
 - :seedling: Loves to solve problems and also do some Technical Writing.
 
+- 📚 I’m currently learning Computer Science at [OSSU](https://github.com/ossu/computer-science) 
+
 - :zap: Check out my [medium page](https://medium.com/@epaitoo).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-paitoo/)
