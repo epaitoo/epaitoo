@@ -22,7 +22,7 @@
 
  - :telescope: I’m a Software Engineer.
 
-- :seedling: Loves to solve problems and also do some Technical Writing.
+- :seedling: Loves to solve problems and also do some infrequent Technical Writing.
 
 - 📚 I’m currently learning Computer Science at [OSSU](https://github.com/ossu/computer-science) 
 
