@@ -24,7 +24,7 @@
 
 - :seedling: Loves to solve problems and also do some infrequent Technical Writing.
 
-- 📚 I’m currently learning Computer Science at [OSSU](https://github.com/ossu/computer-science) 
+<!-- - 📚 I’m currently learning Computer Science at [OSSU](https://github.com/ossu/computer-science)  -->
 
 - :zap: Check out my [medium page](https://medium.com/@epaitoo).
 
