@@ -22,7 +22,7 @@
 
  - :telescope: I’m a Software Engineer.
 
-- :seedling: Loves to solve problems and also do some infrequent Technical Writing.
+- :seedling: Loves to solve problems and also do some Technical Writing.
 
 - :zap: Check out my [medium page](https://medium.com/@epaitoo).
 
