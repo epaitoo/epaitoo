@@ -26,7 +26,5 @@
 
 - :zap: Check out my [medium page](https://medium.com/@epaitoo).
 
--  📚 My experimentations [Link here](https://epaitoo.notion.site/cc80fbe79397477f85d4dc2c0801e32c) 
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-paitoo/)
 
